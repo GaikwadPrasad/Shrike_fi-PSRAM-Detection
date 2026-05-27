@@ -38,7 +38,8 @@ Example:- allocates a 2 MB buffer in PSRAM.
 If PSRAM is available:
 
 ```text
-PSRAM FoundSize of PSRAM: <number> bytes
+PSRAM Found
+Size of PSRAM: <number> bytes
 Buffer size: 2097152 bytes
 ```
 
